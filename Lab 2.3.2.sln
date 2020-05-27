@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 2.3.2", "Lab 2.3.2\Lab 2.3.2.csproj", "{9DD41E9C-73BD-4E79-A908-64D0318F9F88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test for Lab 2.3.2", "Test for Lab 2.3.2\Test for Lab 2.3.2.csproj", "{9F1514D1-0193-4ABF-9B02-F389ED74670E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test for Lab 2.3.2", "Test for Lab 2.3.2\Test for Lab 2.3.2.csproj", "{9F1514D1-0193-4ABF-9B02-F389ED74670E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8A03503-CFA0-46C6-A5D0-320D7A01430B}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
